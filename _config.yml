@@ -40,7 +40,7 @@ round-avatar: true
 social-network-links:
   email: "villa.wang.zhengwei@gmail.com"
 #   facebook: deanattali
-  github: villawang
+  github: "https://github.com/villawang"
   google scholar: https://scholar.google.com/citations?user=TaYR7cMAAAAJ&hl=en
   rss: true
 #  reddit: yourname
