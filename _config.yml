@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "villa.wang.zhengwei@gmail.com"
-#   facebook: deanattali
+  twitter: "https://twitter.com/wangvilla"
   github: "https://github.com/villawang"
-  google scholar: https://scholar.google.com/citations?user=TaYR7cMAAAAJ&hl=en
+  linkedin: "https://www.linkedin.com/in/zhengwei-wang-2710a99b/"
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
