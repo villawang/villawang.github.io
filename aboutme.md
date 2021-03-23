@@ -4,13 +4,8 @@ title: About me
 subtitle: Research Fellow at V-SENSE, Trinity College Dublin
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zheng-wei Wang (王正蔚). I obtained my Ph.D. advised by [Prof. Tomas E. Ward](https://www.computing.dcu.ie/~tward/) and [Dr. Graham Healy](https://www.computing.dcu.ie/~ghealy/). My Ph.D. is carried out in the area of neuroscience and deep learning. We proposed a Neuroscore derived from human's EEG signals to effectively evalute the performance for Generative Adversarial Networks (GANs). Here is my [Ph.D. Thesis](http://doras.dcu.ie/23729/).  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am currently a Research Fellow working with [Prof. Aljosa Smolic](https://scholar.google.ch/citations?user=HZRejX4AAAAJ&hl=en). My current research interest focusing on video understanding especially for video action recognition.
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
