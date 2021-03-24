@@ -7,8 +7,6 @@ Full publications can refer to my [Google Scholar](https://scholar.google.com/ci
 
 ### Selected Publications
 
-[ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/pdf/2103.07372.pdf)\
-**Zhengwei Wang**, Qi She, Aljosa Smolic\
-CVPR 2021, [code](https://github.com/V-Sense/ACTION-Net)\
+**Zhengwei Wang**, Qi She, Aljosa Smolic, [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/pdf/2103.07372.pdf), CVPR 2021. [code](https://github.com/V-Sense/ACTION-Net)
 
 
