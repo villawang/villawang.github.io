@@ -25,4 +25,10 @@ IJCNN 2019\
 IJCNN 2021\
 ICLR 2021
 
+**Journal Reviewer**\
+ACM Computing Surveys\
+Neural Networks\
+Information Fusion\
+IEEE Transactions on Image Processing\
+IEEE Journal of Biomedical and Health Informatics
 
