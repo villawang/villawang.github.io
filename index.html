@@ -11,11 +11,17 @@ subtitle: Zhengwei's Home
     and <a href="https://www.computing.dcu.ie/~ghealy/">Dr. Graham Healy</a>. 
     My Ph.D. is carried out in the area of neuroscience and deep learning.
     We basically build a system called Neuro-AI Interface for interacting deep neural networks with human neural systems.
-    As the figure showed below, 
-    <p align="center"><img src="assets/img/research/NAI_2.png" width="500" /></p>
-    
-    We proposed a Neuroscore derived from human's EEG signals to effectively evaluate the performance for Generative Adversarial Networks (GANs).
-    Here is my <a href="http://doras.dcu.ie/23729/">Ph.D. Thesis</a>.
+    As the figure showed below, we first use Generative Adversarial Networks (GANs) to produce visual stimulus (i.e., images with different visual quality) 
+    to participants,
+    <p align="center"><img src="assets/img/research/NAI_2.png" width="600" /></p>
+    then we can get the human's neural response i.e., EEG in this case for each image (downside path).
+    At the same time, generated images are fed as inputs to a pre-trained deep neural network on the upside path,
+    we also transfer the neural response to the deep neural network. Thus the deep neural network has ability for mapping from images to neural responses like a human brain.
+    We use this framework succesfully to evaluate the performance for different GANs and we name this perceptual score as Neuroscore.
+    More details related to this research can refer to our two papers: 
+    <a href="https://arxiv.org/abs/1811.04172">Use of neural signals to evaluate the quality of generative adversarial network performance in facial image generation</a> 
+    and <a href="https://arxiv.org/abs/1905.04243">Synthetic-Neuroscore: Using A Neuro-AI Interface for Evaluating Generative Adversarial Networks</a>
+    My full Ph.D. Thesis talking about the "Cortically Coupled Image Computing" is provided <a href="http://doras.dcu.ie/23729/">here</a>.
   </p>
   <p>
     I am currently a Research Fellow working with <a href="https://scholar.google.ch/citations?user=HZRejX4AAAAJ&hl=en">Prof. Aljosa Smolic</a>.
