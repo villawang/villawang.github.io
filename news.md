@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+**[March 2021]** Our paper [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/abs/2103.07372) has been accepted by CVPR 2021!
+
+**[Feb 2021]** Our paper [Generative adversarial networks in computer vision: A survey and taxonomy](https://arxiv.org/abs/1906.01529) has been published online at [ACM Computing Surveys](https://dl.acm.org/doi/fullHtml/10.1145/3439723)
+
 **[May 2020]** Our paper "Synthetic-Neuroscore: Using a neuro-AI interface for evaluating generative adversarial networks" has been published online at [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231220306548).
 
 **[April 2020]** Our paper "CatNet: Class Incremental 3D ConvNets for Lifelong Egocentric Gesture Recognition" has been accepted by CVPR 2020 Workshop on Continual Learning in Computer Vision (CLVISION).
