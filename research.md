@@ -2,6 +2,10 @@
 layout: home
 title: Research
 ---
+<p align="center"><img src="assets/img/research/NAI_2.pdf" width="500" /></p>
+
+
+
 
 Full publications can refer to my [Google Scholar](https://scholar.google.com/citations?user=TaYR7cMAAAAJ&hl=en)
 
