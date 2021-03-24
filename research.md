@@ -2,7 +2,7 @@
 layout: home
 title: Research
 ---
-<p align="center"><img src="assets/img/research/NAI_2.pdf" width="500" /></p>
+<p align="center"><img src="assets/img/research/NAI_2.png" width="500" /></p>
 
 
 
