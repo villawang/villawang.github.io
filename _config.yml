@@ -12,7 +12,8 @@ author: Zheng-wei Wang (王正蔚)
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#   About Me: "aboutme"
+#   Aboutme: "aboutme"
+  Home: "https://villawang.github.io/"
   Research: "research"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
