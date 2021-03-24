@@ -17,7 +17,7 @@ Full publications can refer to my [Google Scholar](https://scholar.google.com/ci
 
 
 
-### Community Service\
+### Community Service
 #### Conference Reviewer
 ICONIP 2019\
 IJCNN 2019\
