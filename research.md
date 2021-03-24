@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Research
-subtitle: Why you'd want to go on a date with me
+subtitle: Details of my publication can refer to my [Google Scholar](https://scholar.google.com/citations?user=TaYR7cMAAAAJ&hl=en)
 ---
 
 My name is Inigo Montoya. I have the following qualities:
