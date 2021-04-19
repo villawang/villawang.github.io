@@ -27,7 +27,7 @@ Full publications can refer to my [Google Scholar](https://scholar.google.com/ci
 ICONIP 2019\
 IJCNN 2019, 2021\
 ICLR 2021 \
-NeuIPS 2021
+NeurIPS 2021
 
 **Journal Reviewer**\
 ACM Computing Surveys\
