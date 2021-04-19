@@ -2,6 +2,7 @@
 layout: page
 title: News
 ---
+**[April 2021]** I am invited as a reviwer for NeuIPS 2021.
 
 **[March 2021]** Our paper [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/abs/2103.07372) has been accepted by CVPR 2021!
 
